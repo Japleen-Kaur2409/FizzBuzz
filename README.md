@@ -11,8 +11,7 @@ https://github.com/CSC207-2025F-UofT/FizzBuzz/
 1. Make sure you are logged into GitHub. You should see a button that says `Fork` in the top-right corner of the page.
 Click this button to create a fork of this repository, which will be your own copy of the codebase to edit as you please.
 In the new page that comes up, confirm that you want to create the fork and your own FizzBuzz repository will be created
-on GitHub!
-
+on GitHub!!
 2. Now that you have your own fork of this repository, close this page, go to your fork, and continue with the next instructions.
 
 3. The next step is to get a local copy of your FizzBuzz repository on your own computer.
@@ -325,6 +324,8 @@ on GitHub.
 - [ ] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
+\*Trying to make the changes in the file for git pull to work
+*\
 
 This change has now been made on GitHub, but your local copy doesn't know about the change yet.
 
